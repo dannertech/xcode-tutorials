@@ -1,0 +1,6 @@
+framework module Pods_paperOnboarding {
+  umbrella header "Pods-paperOnboarding-umbrella.h"
+
+  export *
+  module * { export * }
+}

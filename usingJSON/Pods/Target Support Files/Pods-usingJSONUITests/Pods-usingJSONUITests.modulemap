@@ -1,0 +1,6 @@
+framework module Pods_usingJSONUITests {
+  umbrella header "Pods-usingJSONUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

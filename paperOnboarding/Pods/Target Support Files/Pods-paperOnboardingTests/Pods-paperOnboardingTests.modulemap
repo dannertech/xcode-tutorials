@@ -1,0 +1,6 @@
+framework module Pods_paperOnboardingTests {
+  umbrella header "Pods-paperOnboardingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
